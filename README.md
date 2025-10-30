@@ -15,7 +15,7 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
 
 ## Data Sources
 - Istanbul Rental Apartments Dataset (2025) on Kaggle
- Features: 
+ - Features: 
   - district: The district (e.g., Beşiktaş, Kadıköy)
   - neighborhood: The neighborhood name
   - room: Number of rooms
