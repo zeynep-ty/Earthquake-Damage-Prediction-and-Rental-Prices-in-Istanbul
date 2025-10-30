@@ -43,7 +43,7 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
  - Perform statistical tests and correlation analysis to evaluate relationships between rent and risk
  - Visualize results using charts and maps to highlight spatial patterns
   
-## Hypotheses
+## Hypothesis
   - **H1**: Rental prices are lower in districts and neighborhoods with higher earthquake damage and casualty risk.
   - **H2**: Building age and floor level have a negative impact on rental prices — older or higher-floor apartments tend to be cheaper.
   - **H3**: Apartment size (m²) and number of rooms have a positive effect on rent values, increasing the overall price.
