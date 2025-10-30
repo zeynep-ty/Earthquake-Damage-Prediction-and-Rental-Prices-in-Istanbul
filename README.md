@@ -14,6 +14,7 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
 - Compare the relative impact of seismic risk and property features to identify which plays a more dominant role in shaping rent variation.
 
 ## Data Sources
+
 **Istanbul Rental Apartments Dataset (2025) on Kaggle**
 - This dataset contains rental apartment listings from Istanbul. It includes detailed information about rental properties such as: 
    - district: The district (e.g., Beşiktaş, Kadıköy)
@@ -24,5 +25,9 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
    - age: Age of the building
    - floor: Floor number (Negative values indicate basement floors)
    - price: Rental price in Turkish Lira (TRY)
-
-2. 
+   - 
+**Earthquake Risk Data — “District-Level Earthquake Loss Estimation Reports” (İBB)**
+- Published by the Istanbul Metropolitan Municipality (İBB) Earthquake and Ground Investigation Department under the "Olası Deprem Kayıp Tahminleri İlçe Kitapçıkları" project (2020–2025).
+- Provides district and neighborhood-level estimates for a potential 7.5 magnitude earthquake scenario. Includes variables such as:
+   - Predicted building damage levels: light, moderate, heavy, and very heavy damage
+   - Estimated human impact: minor injuries, hospitalizations, severe injuries, fatalities
