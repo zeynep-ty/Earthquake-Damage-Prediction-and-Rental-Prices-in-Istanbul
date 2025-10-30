@@ -14,8 +14,8 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
 - Compare the relative impact of seismic risk and property features to identify which plays a more dominant role in shaping rent variation.
 
 ## Data Sources
-1. Istanbul Rental Apartments Dataset (2025) on Kaggle
- - This dataset contains rental apartment listings from Istanbul. It includes detailed information about rental properties such as: 
+- Istanbul Rental Apartments Dataset (2025) on Kaggle
+  This dataset contains rental apartment listings from Istanbul. It includes detailed information about rental properties such as: 
    - district: The district (e.g., Beşiktaş, Kadıköy)
    - neighborhood: The neighborhood name
    - room: Number of rooms
