@@ -33,3 +33,13 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
    - Estimated human impact: minor injuries, hospitalizations, severe injuries, fatalities
 
 ## Analysis Plan 
+  - Extract building damage and casualty estimation tables from İBB’s District-Level Earthquake Loss Estimation Reports and convert them into a structured CSV format.
+  - Clean and standardize district and neighborhood names to ensure consistency across both datasets.
+  - Merge the rental housing dataset and the earthquake loss dataset using district and neighborhood as common keys.
+  - Generate new risk indicators to quantify earthquake vulnerability, such as:
+    - Damage Ratio: proportion of damaged buildings (light, moderate, heavy, very heavy) relative to total buildings.
+    - Casualty Index: combined measure of predicted injuries and fatalities per neighborhood.
+ - Conduct exploratory data analysis (EDA) to observe trends and outliers.
+ - Perform statistical tests and correlation analysis to evaluate relationships between rent and risk.
+ - Visualize results using charts and maps to highlight spatial patterns.
+  
