@@ -33,13 +33,19 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
    - Estimated human impact: minor injuries, hospitalizations, severe injuries, fatalities
 
 ## Analysis Plan 
-  - Extract building damage and casualty estimation tables from İBB’s District-Level Earthquake Loss Estimation Reports and convert them into a structured CSV format.
-  - Clean and standardize district and neighborhood names to ensure consistency across both datasets.
-  - Merge the rental housing dataset and the earthquake loss dataset using district and neighborhood as common keys.
-  - Generate new risk indicators to quantify earthquake vulnerability, such as:
-    - Damage Ratio: proportion of damaged buildings (light, moderate, heavy, very heavy) relative to total buildings.
-    - Casualty Index: combined measure of predicted injuries and fatalities per neighborhood.
- - Conduct exploratory data analysis (EDA) to observe trends and outliers.
- - Perform statistical tests and correlation analysis to evaluate relationships between rent and risk.
- - Visualize results using charts and maps to highlight spatial patterns.
+  - Extract building damage and casualty estimation tables from İBB’s District-Level Earthquake Loss Estimation Reports and convert them into a structured CSV format
+  - Clean and standardize district and neighborhood names to ensure consistency across both datasets
+  - Merge the rental housing dataset and the earthquake loss dataset using district and neighborhood as common keys
+  - Create new variables to represent earthquake vulnerability, such as:
+    - Damage Ratio: proportion of damaged buildings (light, moderate, heavy, very heavy) relative to total buildings
+    - Casualty Index: proportion of predicted minor injuries, hospitalizations, severe injuries, and fatalities relative to the neighborhood population.
+ - Conduct exploratory data analysis (EDA) to observe trends and outliers
+ - Perform statistical tests and correlation analysis to evaluate relationships between rent and risk
+ - Visualize results using charts and maps to highlight spatial patterns
   
+## Hypotheses
+  - **H1**: Rental prices are lower in districts and neighborhoods with higher earthquake damage and casualty risk.
+  - **H2**: Building age and floor level have a negative impact on rental prices — older or higher-floor apartments tend to be cheaper.
+  - **H3**: Apartment size (m²) and number of rooms have a positive effect on rent values, increasing the overall price.
+  - **H4**: The influence of property characteristics on rental prices is stronger than the effect of earthquake risk indicators, suggesting that market dynamics prioritize structural factors over risk perception.
+
