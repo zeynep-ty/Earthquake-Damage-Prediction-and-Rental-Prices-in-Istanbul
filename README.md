@@ -2,7 +2,7 @@
 Term Project for DSA210: Introduction to Data Science
 
 ## Project Overview 
-Istanbul is a highly populated city with a large number of buildings and a well-known high earthquake risk due to its location near active fault lines. This project aims to analyze the relationship between earthquake damage risk and rental housing prices across Istanbul's different districts and neighborhoods. By considering the predicted building damage and casualty rates at the district and neighborhood level under a potential 7.5 magnitude earthquake, rental prices will be examined together with building-related features such as age, floor level, apartment size, and number of rooms to determine which factors most strongly influence rent values. The ultimate goal is to provide insights into Istanbul's housing market dynamics and urban planning, and to guide safer housing decisions. 
+Istanbul is a highly populated city with a large number of buildings and a well-known high earthquake risk due to its location near active fault lines. This project aims to analyze the relationship between earthquake damage risk and rental housing prices across Istanbul's different districts and neighborhoods. By considering the predicted building damage and casualty rates at the district and neighborhood level under a potential 7.5 magnitude earthquake, rental prices will be examined together with building-related features such as age, floor level, apartment size, and number of rooms to determine which factors most strongly influence rent values. The main goal is to understand the overall pattern of Istanbul's housing market and urban planning, and to guide safer housing decisions. 
 
 ## Motivation
 Recently, while searching for a new apartment in Istanbul with my family, the main factor we considered was the earthquake damage risk of the buildings and districts. This experience led me to wonder how and to what extent this factor affects rental prices across the city, and whether people's housing decisions reflect earthquake risk awareness. 
@@ -10,7 +10,7 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
 ## Objectives
 - Analyze how rental prices across Istanbul differ according to earthquake damage and casualty risk levels at the district and neighborhood scale.
 - Examine how property characteristics — such as building age, floor level, apartment size, and number of rooms — influence rental values.
-- Determine which of these factors have the strongest overall effect on housing prices and how they interact with earthquake risk.
+- Identify which of these factors have the biggest overall impact on housing prices and how they interact with earthquake risk.
 - Compare the relative impact of seismic risk and property features to identify which plays a more dominant role in shaping rent variation.
 
 ## Data Sources
@@ -33,14 +33,14 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
    - Estimated human impact values: number of fatalities, severe injuries, hospital-treated injuries, and minor injuries
  
 ## Analysis Plan 
-  - Extract building damage and casualty estimation tables from İBB’s District-Level Earthquake Loss Estimation Reports and convert them into a structured CSV format
+  - Extract building damage and casualty estimation tables from İBB’s District-Level Earthquake Loss Estimation Reports and convert them into a clean CSV format
   - Clean and standardize district and neighborhood names to ensure consistency across both datasets
   - Merge the rental housing dataset and the earthquake loss dataset using district and neighborhood as common keys
   - Create new variables to represent earthquake vulnerability, such as:
     - Damage Ratio: proportion of damaged buildings (light, moderate, heavy, very heavy) relative to total buildings
-    - Casualty Ratio: proportion of predicted minor injuries, hospitalizations, severe injuries, and fatalities relative to the neighborhood population.
+    - Casualty Ratio: proportion of predicted minor injuries, hospitalizations, severe injuries, and fatalities relative to the neighborhood population
  - Conduct exploratory data analysis (EDA) to observe trends and outliers
- - Perform statistical tests and correlation analysis to evaluate relationships between rent and risk
+ - Perform statistical tests and correlation analysis to see how rent relates to risk and property factors
  - Visualize results using charts and maps to highlight spatial patterns
   
 ## Hypothesis
