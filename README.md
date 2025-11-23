@@ -24,7 +24,7 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
    - area_m2: Apartment size in square meters (m²)
    - age: Age of the building
    - floor: Floor number (Negative values indicate basement floors)
-   - price: Rental price in Turkish Lira (TRY)
+   - price: Rental price per square meter in Turkish Lira (TRY)
      
 **Earthquake Risk Data — “District-Level Earthquake Loss Estimation Reports” (İBB)**
 - Published by the Istanbul Metropolitan Municipality (İBB) Earthquake and Ground Investigation Department under the "Olası Deprem Kayıp Tahminleri İlçe Kitapçıkları" project (2020–2025).
@@ -43,9 +43,17 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
  - Perform statistical tests and correlation analysis to see how rent relates to risk and property factors
  - Visualize results using charts and maps to highlight spatial patterns
   
-## Hypothesis
-  - **H1**: Rental prices are lower in districts and neighborhoods with higher earthquake damage and casualty risk.
-  - **H2**: Building age and floor level have a negative impact on rental prices — older or higher-floor apartments tend to be cheaper.
-  - **H3**: Apartment size (m²) and number of rooms have a positive effect on rent values, increasing the overall price.
-  - **H4**: The influence of property characteristics on rental prices is stronger than the effect of earthquake risk indicators, suggesting that market dynamics prioritize structural factors over risk perception.
+## Hypotheses
+  - **H1 - Earthquake Risk vs Rent:**
+       - **Null Hypothesis(H0):** District and neighborhood-level earthquake risk indicators (damage ratio, casualty ratio) have no relationship with rental prices.
+       - **Alternative Hypothesis(H1):** Districts and neighborhoods with higher earthquake risk have lower rental prices on average.
+  - **H2 - Building Age vs Earthquake Risk Interaction:**
+       - **Null Hypothesis(H0):** The relationship between building age and rental price does not depend on the level of neighborhood earthquake risk.
+       - **Alternative Hypothesis(H2):** The negative effect of building age on rental prices is stronger in high-risk neighborhoods, indicating that older buildings are discounted              more heavily where earthquake risk is elevated.
+  - **H3 - Floor Level vs Earthquake Risk Interaction:** 
+      - **Null Hypothesis(H0):** Floor level has the same impact on rental prices across low-risk and high-risk neighborhoods.
+      - **Alternative Hypothesis(H3):** Higher-floor apartments become cheaper in high-risk neighborhoods compared to low-risk ones, showing that people are more worried about living on upper floors when the earthquake risk is higher.
+  - **H4 - Dominant Factor Comparison:**
+      - **Null Hypothesis(H0):** Earthquake risk indicators and property features(size, building age, room count, floor level, etc.) have equal predictive power for rental prices.
+      - **Alternative Hypothesis(H4):** The influence of property characteristics on rental prices is stronger than the effect of earthquake risk indicators, suggesting that market             dynamics prioritize structural factors over risk perception.
 
