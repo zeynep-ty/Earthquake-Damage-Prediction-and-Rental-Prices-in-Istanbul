@@ -1,0 +1,971 @@
+district;neighborhood;very_heavy_damage;heavy_damage;moderate_damage;light_damage;fatality;severe_injury;hospital_treated;minor_injury
+Adalar;BURGAZADA;54;99;256;241;8;6;24;42
+Adalar;HEYBELIADA;101;175;423;393;25;21;66;113
+Adalar;KINALIADA;53;97;287;302;5;3;15;27
+Adalar;MADEN;104;192;483;484;22;18;64;113
+Adalar;NIZAM;101;180;445;422;16;13;48;83
+Arnavutkoy;ADNAN MENDERES;1;3;21;57;0;0;1;3
+Arnavutkoy;ANADOLU;2;13;108;371;0;0;0;26
+Arnavutkoy;ARNAVUTKOY MERKEZ;1;6;51;199;0;0;2;10
+Arnavutkoy;ATATURK;1;6;49;129;0;0;2;8
+Arnavutkoy;BAKLALI;1;5;23;65;0;0;0;0
+Arnavutkoy;BALABAN;0;1;3;22;0;0;0;0
+Arnavutkoy;BOGAZKOY ISTIKLAL;2;14;95;249;0;0;3;10
+Arnavutkoy;BOLLUCA;1;6;46;125;0;0;1;5
+Arnavutkoy;BOYALIK;1;4;21;63;0;0;0;0
+Arnavutkoy;CILINGIR;1;5;28;76;0;0;0;0
+Arnavutkoy;DELIKLIKAYA;1;7;50;120;0;0;0;2
+Arnavutkoy;DURSUNKOY;1;5;18;45;0;0;0;1
+Arnavutkoy;DURUSU;0;2;10;30;0;0;0;0
+Arnavutkoy;FATIH;1;4;21;59;0;0;0;1
+Arnavutkoy;HACIMASLI;0;3;16;41;0;0;0;0
+Arnavutkoy;HADIMKOY;1;7;63;203;0;0;0;4
+Arnavutkoy;HARACCI;2;12;82;230;0;0;0;4
+Arnavutkoy;HASTANE;1;6;45;147;0;0;0;5
+Arnavutkoy;HICRET;0;3;24;61;0;0;0;2
+Arnavutkoy;IMRAHOR;3;17;96;255;0;0;2;11
+Arnavutkoy;ISLAMBEY;2;11;88;268;0;0;4;18
+Arnavutkoy;KARABURUN;0;3;32;112;0;0;0;0
+Arnavutkoy;KARLIBAYIR;2;9;60;186;0;0;1;8
+Arnavutkoy;MARESAL FEVCI CAKMAK;1;6;50;141;0;0;0;1
+Arnavutkoy;MAVIGOL;1;6;53;146;0;0;0;3
+Arnavutkoy;MEHMET AKIF ERSOY;1;4;26;73;0;0;0;3
+Arnavutkoy;MUSTAFA KEMAL PASA;1;7;53;161;0;0;3;11
+Arnavutkoy;NENEHATUN;1;5;43;124;0;0;0;7
+Arnavutkoy;OMERLI;1;7;49;124;0;0;0;3
+Arnavutkoy;SAZLIBOSNA;0;5;26;68;0;0;0;1
+Arnavutkoy;TASOLUK;1;6;44;122;0;0;1;6
+Arnavutkoy;TAYAKADIN;3;12;57;162;0;0;0;1
+Arnavutkoy;TERKOS;1;4;19;58;0;0;0;0
+Arnavutkoy;YASSIOREN;0;1;12;41;0;0;0;0
+Arnavutkoy;YAVUZ SELIM;2;9;64;180;0;0;1;9
+Arnavutkoy;YENIKOY;1;5;39;121;0;0;0;0
+Arnavutkoy;YESILBAYIR;1;4;27;69;0;0;0;0
+Arnavutkoy;YUNUS EMRE;1;10;88;244;0;0;5;16
+Atasehir;ASIKVEYSEL;5;18;102;266;4;3;12;26
+Atasehir;ATATURK;2;12;76;209;2;0;11;30
+Atasehir;BARBAROS;14;50;248;498;11;9;42;88
+Atasehir;ESATPASA;5;20;140;422;3;1;14;33
+Atasehir;FERHATPASA;4;26;191;493;0;0;5;26
+Atasehir;FETIH;1;3;26;102;1;0;3;7
+Atasehir;ICERENKOY;23;76;465;1180;19;8;61;133
+Atasehir;INONU;4;17;115;392;2;0;14;36
+Atasehir;KAYISDAGI;10;52;352;785;7;2;31;76
+Atasehir;KUCUKBAKALKOY;13;41;200;501;11;6;35;71
+Atasehir;MEVLANA;1;8;64;188;2;0;7;20
+Atasehir;MIMAR SINAN;2;13;81;203;1;0;7;18
+Atasehir;MUSTAFA KEMAL;8;28;145;345;6;4;18;40
+Atasehir;ORNEK;9;31;181;463;7;4;25;54
+Atasehir;YENI CAMLICA;5;24;152;319;3;1;11;28
+Atasehir;YENISAHRA;17;51;205;397;10;9;32;64
+Atasehir;YENISEHIR;0;1;13;70;0;0;2;5
+Avcilar;AMBARLI;26;105;388;634;67;35;191;364
+Avcilar;CIHANGIR;37;169;688;1171;87;46;252;496
+Avcilar;DENIZKOSKLER;33;138;516;843;74;39;212;409
+Avcilar;FIRUZKOY;19;150;676;1005;18;7;61;135
+Avcilar;GUMUSPALA;27;115;446;750;63;34;184;353
+Avcilar;MERKEZ;17;64;253;471;44;23;124;241
+Avcilar;MUSTAFA KEMAL PASA;21;91;416;821;47;25;134;274
+Avcilar;TAHTAKALE;5;52;321;658;3;1;26;76
+Avcilar;UNIVERSITE;12;64;276;480;19;9;55;113
+Avcilar;YESILKENT;36;313;1565;2452;43;20;146;338
+Bagcilar;100 YIL;6;22;186;665;7;3;25;61
+Bagcilar;Baglar;36;86;315;455;33;19;90;165
+Bagcilar;Barbaros;36;74;273;453;50;28;133;242
+Bagcilar;Cinar;45;86;360;720;82;45;215;390
+Bagcilar;Demirkapi;43;108;509;1013;71;39;192;368
+Bagcilar;Evren;54;144;657;1233;70;38;190;367
+Bagcilar;Fatih;25;62;334;808;40;21;107;208
+Bagcilar;Fevzi Cakmak;27;64;311;673;44;24;118;224
+Bagcilar;Goztepe;19;53;287;683;25;15;71;144
+Bagcilar;Gunesli;47;114;507;961;71;39;190;358
+Bagcilar;Hurriyet;49;99;367;570;65;35;171;307
+Bagcilar;Inonu;46;90;326;525;64;38;169;304
+Bagcilar;Kazim Karabekir;46;94;360;607;66;38;174;316
+Bagcilar;Kemalpasa;20;50;284;682;30;16;81;160
+Bagcilar;Kirazli;51;119;501;902;76;42;203;380
+Bagcilar;Mahmutbey;47;144;694;1236;39;23;110;209
+Bagcilar;Merkez;26;52;221;434;52;28;137;251
+Bagcilar;Sancaktepe;23;49;215;419;35;19;92;171
+Bagcilar;Yavuz Selim;30;69;298;568;47;26;125;234
+Bagcilar;Yenigun;24;43;186;373;54;29;138;250
+Bagcilar;Yenimahalle;29;73;332;634;48;26;128;242
+Bagcilar;Yildiztepe;67;130;478;783;110;61;289;518
+Bahcelievler;Bahcelievler;81;147;488;752;185;99;480;838
+Bahcelievler;Cumhuriyet;47;87;362;680;97;53;254;459
+Bahcelievler;Cobancesme;62;125;469;751;83;44;217;393
+Bahcelievler;Fevzi Cakmak;37;71;276;470;70;36;180;326
+Bahcelievler;Hurriyet;56;105;432;757;128;69;335;601
+Bahcelievler;KocasInan Merkez;71;151;611;1088;148;83;394;723
+Bahcelievler;Siyavuspasa;88;143;521;922;220;117;567;989
+Bahcelievler;Soganli;74;126;537;1059;189;101;491;875
+Bahcelievler;Sirinevler;105;171;592;945;230;122;592;1028
+Bahcelievler;Yenibosna Merkez;74;162;553;796;71;41;193;352
+Bahcelievler;Zafer;101;202;827;1466;212;114;558;1015
+Bakirkoy;Atakoy 1 Kisim;6;10;24;32;12;6;31;52
+Bakirkoy;Atakoy 2-5-6 Kisim;16;27;61;77;68;36;176;295
+Bakirkoy;Atakoy 3-4-11 Kisim;18;30;75;89;43;23;110;185
+Bakirkoy;Atakoy 7-8-9-10 Kisim;16;38;126;199;63;33;165;291
+Bakirkoy;Basinkoy;62;93;200;167;47;35;123;208
+Bakirkoy;Cevizlik;39;63;188;271;29;16;74;127
+Bakirkoy;Kartaltepe;82;132;393;567;166;89;424;725
+Bakirkoy;Osmaniye;44;83;259;349;87;47;225;391
+Bakirkoy;Sakizagaci;50;131;176;41;23;104;176;
+Bakirkoy;Senlikkoy;110;234;593;488;122;68;324;561
+Bakirkoy;Yenimahalle;34;50;132;186;42;23;108;182
+Bakirkoy;Yesilkoy;201;310;696;621;161;92;413;695
+Bakirkoy;Yesilyurt;25;38;95;99;35;19;91;154
+Bakirkoy;Zeytinlik;30;49;152;228;27;15;70;121
+Bakirkoy;Zuhuratbaba;65;99;269;390;103;56;263;447
+Basaksehir;Altinsehir;10;42;199;374;8;6;28;61
+Basaksehir;Bahcesehir 1 Kisim;5;44;278;549;1;0;11;33
+Basaksehir;Bahcesehir 2 Kisim;11;57;311;738;16;7;53;115
+Basaksehir;Basak;1;8;66;225;1;0;7;24
+Basaksehir;Basaksehir;1;3;21;115;1;0;6;18
+Basaksehir;Guvercintepe;26;115;573;1173;21;16;80;183
+Basaksehir;Kayabasi;4;18;91;261;2;1;9;27
+Basaksehir;Sahintepe;29;128;615;1197;11;8;54;125
+Basaksehir;Samlar;1;7;36;88;0;0;0;0
+Basaksehir;Ziya Gokalp;27;153;787;1523;10;7;39;84
+Bayrampasa;Altintepsi;68;135;483;826;60;37;161;291
+Bayrampasa;Cevatpasa;18;43;175;384;18;12;51;98
+Bayrampasa;Ismet Pasa;50;86;260;442;41;28;108;191
+Bayrampasa;Kartaltepe;68;137;483;1025;67;45;180;331
+Bayrampasa;Kocatepe;26;55;233;468;30;17;82;154
+Bayrampasa;Muratpasa;116;202;589;1008;93;63;245;435
+Bayrampasa;OrtamAhalle;57;107;334;533;40;27;106;189
+Bayrampasa;Terazidere;52;98;309;530;34;24;93;167
+Bayrampasa;Vatan;36;72;229;366;22;16;60;108
+Bayrampasa;Yenidogangokalp;57;104;345;582;46;29;122;217
+Bayrampasa;Yildirim;66;143;619;1251;69;42;186;348
+Besiktas;Abbasaga;2;6;31;111;1;1;4;9
+Besiktas;Akat;3;11;73;220;1;1;5;14
+Besiktas;Arnavutkoy;1;7;52;164;0;0;0;4
+Besiktas;Balmumcu;1;3;24;67;0;0;1;3
+Besiktas;Bebek;2;6;46;143;0;0;2;5
+Besiktas;Cihannuma;3;7;35;110;2;1;5;10
+Besiktas;Dikilitas;2;4;25;135;2;1;7;16
+Besiktas;Etiler;1;4;44;137;0;0;2;8
+Besiktas;Gayrettepe;1;3;17;93;1;0;6;13
+Besiktas;Konaklar;1;4;28;106;0;0;4;10
+Besiktas;Kurucesme;1;6;38;116;0;0;0;3
+Besiktas;Kultur;0;2;17;65;0;0;1;2
+Besiktas;Levazim;0;1;7;40;0;0;1;4
+Besiktas;Levent;2;8;95;248;0;0;1;4
+Besiktas;Mecidiye;11;32;127;293;6;4;17;38
+Besiktas;Muradiye;1;2;12;66;1;0;3;6
+Besiktas;Nisbetiye;1;2;21;103;0;0;2;7
+Besiktas;Ortakoy;7;20;96;239;2;2;9;20
+Besiktas;Sinanpasa;8;18;71;169;4;2;10;18
+Besiktas;Turkali;6;14;62;190;4;2;10;21
+Besiktas;Ulus;1;3;23;88;0;0;1;5
+Besiktas;Visnezade;5;13;54;170;1;0;4;11
+Besiktas;Yildiz;4;11;55;168;1;0;4;9
+Beylikduzu;Adnan Kahveci;27;83;292;624;106;56;285;523
+Beylikduzu;Baris;12;39;126;306;84;44;222;394
+Beylikduzu;Buyuksehir;3;10;30;89;25;13;65;115
+Beylikduzu;Cumhuriyet;6;14;40;140;36;19;95;168
+Beylikduzu;Dereagzi;66;203;594;619;24;10;80;159
+Beylikduzu;Gurpinar;39;126;397;450;37;20;104;191
+Beylikduzu;Kavakli;40;117;369;524;50;27;147;271
+Beylikduzu;Marmara;25;80;241;343;56;28;152;271
+Beylikduzu;Sahil;25;65;171;161;12;6;37;67
+Beylikduzu;Yakuplu;78;213;744;1075;97;53;269;496
+Buyukcekmece;19 Mayis;13;36;139;208;13;7;35;67
+Buyukcekmece;Ahmediye;5;16;60;84;1;0;3;7
+Buyukcekmece;Alkent 2000;12;57;255;386;1;0;6;12
+Buyukcekmece;Ataturk;24;75;293;410;28;14;76;145
+Buyukcekmece;Bahcelievler;24;111;449;550;0;0;7;23
+Buyukcekmece;Celaliye;7;66;358;608;0;0;4;17
+Buyukcekmece;Cumhuriyet;11;48;189;261;9;4;31;62
+Buyukcekmece;Cakmakli;9;27;96;139;7;5;22;41
+Buyukcekmece;Dizdariye;22;43;137;185;20;12;53;95
+Buyukcekmece;Ekinoba;8;29;115;183;14;7;40;77
+Buyukcekmece;Fatih;29;80;306;422;31;16;88;166
+Buyukcekmece;Guzelce;41;174;635;734;6;2;30;65
+Buyukcekmece;Hurriyet;28;92;375;535;22;14;68;139
+Buyukcekmece;Kamiloba;6;56;313;541;0;0;1;7
+Buyukcekmece;Karaagac;5;39;219;416;0;0;0;0
+Buyukcekmece;Kumburgaz;20;81;328;444;3;1;17;39
+Buyukcekmece;Mimar Sinan Merkez;42;98;324;412;21;13;61;109
+Buyukcekmece;Mimaroba;10;35;143;265;22;12;63;117
+Buyukcekmece;Murat Cesme;15;61;246;351;15;7;49;98
+Buyukcekmece;Pinartepe;22;85;326;465;25;11;75;148
+Buyukcekmece;Sinanoba;20;78;273;349;22;11;62;116
+Buyukcekmece;Turkoba;23;115;521;740;3;2;17;55
+Buyukcekmece;Ulus;33;93;361;472;25;16;71;135
+Buyukcekmece;Yenimahalle;10;40;161;207;0;0;6;14
+Beykoz;Acarlar;1;8;89;295;0;0;0;0
+Beykoz;Akbaba;0;2;18;66;0;0;0;0
+Beykoz;Alibahadir;1;2;14;40;0;0;0;0
+Beykoz;Anadolu Hisari;3;10;67;145;0;0;2;5
+Beykoz;Anadolu Kavagi;1;3;16;49;0;0;0;1
+Beykoz;Anadolufeneri;0;2;15;48;0;0;0;0
+Beykoz;Baklaci;1;8;64;171;0;0;0;0
+Beykoz;Bozhane;1;3;13;36;0;0;0;0
+Beykoz;Cumhuriyet;1;5;28;84;0;0;0;1
+Beykoz;CamlBahce;10;22;122;224;4;3;14;27
+Beykoz;Cengeldere;1;7;58;172;0;0;0;0
+Beykoz;Ciftlik;1;7;61;172;0;0;0;0
+Beykoz;Cigdem;0;3;17;44;0;0;0;5
+Beykoz;Cubuklu;9;34;185;495;3;3;13;33
+Beykoz;Dereseki;0;2;19;66;0;0;0;0
+Beykoz;Elmali;1;4;34;106;0;0;0;0
+Beykoz;Fatih;0;4;31;91;0;0;0;1
+Beykoz;Goksu;5;15;80;149;1;0;6;13
+Beykoz;Gollu;0;1;7;19;0;0;0;0
+Beykoz;Gorele;2;5;42;91;0;0;0;0
+Beykoz;Goztepe;4;15;90;209;1;0;5;12
+Beykoz;Gumussuyu;9;34;176;469;1;1;8;21
+Beykoz;Incir koyu;5;20;149;416;1;1;15;15
+Beykoz;Ishakli;1;4;26;78;0;0;0;0
+Beykoz;Kanlica;1;5;42;119;0;0;0;3
+Beykoz;Kavacik;7;23;134;381;2;1;13;31
+Beykoz;KaynArca;0;1;8;25;0;0;0;0
+Beykoz;Kilicli;0;1;11;36;0;0;0;0
+Beykoz;MahmutsevkEtpasa;1;5;31;93;0;0;0;0
+Beykoz;Merkez;0;2;33;122;0;0;0;1
+Beykoz;Ortacesme;4;13;83;202;2;1;5;11
+Beykoz;Ongumce;1;3;18;49;0;0;0;0
+Beykoz;Ornekkoy;1;5;38;120;0;0;0;0
+Beykoz;Pasabahce;4;11;72;143;1;0;4;9
+Beykoz;Pasamandira;2;6;26;71;0;0;0;1
+Beykoz;Polonezkoy;2;6;32;77;0;0;0;0
+Beykoz;Poyrazkoy;1;4;16;43;0;0;0;0
+Beykoz;Riva;0;3;37;134;0;0;0;0
+Beykoz;RuzgarLibahce;4;20;86;248;1;1;6;15
+Beykoz;Soguksu;0;3;41;150;0;0;0;2
+Beykoz;Tokatkoy;7;23;137;339;3;2;9;19
+Beykoz;Yalikoy;7;18;83;190;2;2;7;15
+Beykoz;Yavuz Selim;1;8;73;209;0;0;2;7
+Beykoz;Yeni Mahalle;13;55;290;679;3;1;15;43
+Beykoz;Zerzavatci;0;2;12;36;0;0;0;0
+Beyoglu;Arap Cami;17;29;86;157;0;0;1;2
+Beyoglu;Asmalimescit;2;4;21;82;0;0;1;3
+Beyoglu;Bedrettin;3;7;26;63;1;0;2;5
+Beyoglu;Bereketzade;4;9;35;89;0;0;1;1
+Beyoglu;Bostan;11;23;76;142;7;6;20;37
+Beyoglu;Bulbul;4;14;64;172;1;1;4;9
+Beyoglu;Camikebir;28;46;126;195;14;11;34;62
+Beyoglu;Cihangir;2;5;26;111;0;0;2;5
+Beyoglu;Catma Mescit;2;6;25;67;1;0;3;5
+Beyoglu;Cukur;3;8;32;97;1;0;3;7
+Beyoglu;Emekyemez;11;21;68;123;0;0;1;7
+Beyoglu;Eviya Celebi;1;2;8;27;0;0;1;1
+Beyoglu;Fetihtepe;8;26;148;387;6;4;19;41
+Beyoglu;Firuzaga;3;9;39;128;1;1;4;8
+Beyoglu;Gumussuyu;2;4;22;86;0;0;2;3
+Beyoglu;Haciahmet;16;38;133;292;10;0;28;54
+Beyoglu;Hacimimi;17;22;57;102;2;1;5;8
+Beyoglu;Halicioglu;11;21;80;175;12;7;31;56
+Beyoglu;Huseyinaga;1;4;18;69;0;0;1;5
+Beyoglu;Istiklal;29;66;200;315;10;10;27;50
+Beyoglu;Kadimehmet Efendi;7;13;53;137;7;4;19;33
+Beyoglu;Kalyoncu Kullugu;4;10;40;107;0;0;1;2
+Beyoglu;Kamer Hatun;1;5;15;32;1;0;5;4
+Beyoglu;Kaptanpasa;10;24;166;352;9;7;32;64
+Beyoglu;Katip Mustafa Celebi;1;4;20;85;1;0;1;3
+Beyoglu;Kececi Piri;18;39;164;361;10;7;29;55
+Beyoglu;Kemankes Karamustafapasa;23;29;229;382;2;1;5;8
+Beyoglu;Kilic Ali Pasa;2;5;23;83;0;0;2;5
+Beyoglu;Kocatepe;3;9;40;132;1;0;2;5
+Beyoglu;Kulaksiz;12;7;74;148;0;0;2;4
+Beyoglu;Kuloglu;2;5;24;45;0;0;4;2
+Beyoglu;Kucuk Piyale;16;29;97;179;11;8;29;53
+Beyoglu;Muyeyyetzade;2;5;22;73;0;0;1;1
+Beyoglu;Omer Avni;4;7;29;91;1;0;5;9
+Beyoglu;Ornektepe;22;45;166;311;15;11;40;75
+Beyoglu;Piripasa;26;55;208;406;21;14;57;106
+Beyoglu;Piyalepasa;9;26;168;490;9;6;26;54
+Beyoglu;Purtelas Hasan Efendi;4;8;31;82;1;0;4;7
+Beyoglu;Sururi Mehmet Efendi;15;28;84;140;9;7;24;42
+Beyoglu;Sutluce;22;39;123;226;21;13;55;98
+Beyoglu;Sahkulu;2;5;23;84;0;0;1;2
+Beyoglu;Sehit Muhtar;3;8;36;104;0;0;2;5
+Beyoglu;Tomtom;2;7;31;108;1;1;3;5
+Beyoglu;Yahya Kahya;20;33;92;131;12;8;31;53
+Beyoglu;Yenisehir;5;14;60;159;3;2;9;17
+Catalca;Akalan;1;4;18;52;0;0;0;1
+Catalca;Ataturk;0;1;10;48;0;0;0;0
+Catalca;Aydinlar;0;1;9;39;0;0;0;0
+Catalca;Bahsaisy;0;3;15;37;0;0;0;0
+Catalca;Basak;0;0;5;19;0;0;0;0
+Catalca;Belgrat;0;0;5;20;0;0;0;0
+Catalca;Celepkoy;0;0;3;12;0;0;0;0
+Catalca;Cakil;10;47;218;397;0;0;2;4
+Catalca;Canakca;1;7;46;142;0;0;0;1
+Catalca;Ciftlikkoy;0;2;17;67;0;0;0;0
+Catalca;Dagyenice;1;3;15;45;0;0;0;0
+Catalca;Devlet Ormani;0;0;5;20;0;0;0;0
+Catalca;Elbasan;2;9;48;100;0;0;0;0
+Catalca;Fatih;0;1;9;41;0;0;0;0
+Catalca;Ferhatpasa;8;40;225;550;3;1;15;38
+Catalca;Gokceali;1;6;40;109;0;0;0;1
+Catalca;Gumuspinar;0;1;8;31;0;0;0;0
+Catalca;Hallacli;3;8;37;98;0;0;0;1
+Catalca;Hisarbeyli;0;0;3;13;0;0;0;0
+Catalca;Ihsaniye;2;8;37;102;0;0;1;0
+Catalca;Incegiz;1;7;42;108;0;0;0;0
+Catalca;Izzettin;1;7;56;150;0;0;0;0
+Catalca;Kabakca;5;17;76;193;0;0;0;1
+Catalca;Kaleici;9;42;213;436;1;1;6;15
+Catalca;Kalfa;0;1;11;39;0;0;0;0
+Catalca;Karacakoy Merkez;0;2;27;98;0;0;0;0
+Catalca;Karamandere;0;1;7;27;0;0;0;0
+Catalca;Kestanelik;1;6;41;118;0;0;1;1
+Catalca;Kizilcaali;0;1;8;26;0;0;0;0
+Catalca;Muratbey Merkez;1;13;80;157;0;0;0;1
+Catalca;Nakkas;2;8;39;100;0;0;0;0
+Catalca;Oklali;1;3;22;63;0;0;0;0
+Catalca;Ormanli;0;1;13;48;0;0;0;0
+Catalca;Ovayenice;11;39;159;261;0;0;1;2
+Catalca;Orcunlu;0;2;18;56;0;0;0;0
+Catalca;Orencik;0;1;11;43;0;0;0;0
+Catalca;Subasi;2;8;47;130;0;0;0;0
+Catalca;Yalikoy;0;1;12;54;0;0;0;0
+Catalca;Yaylacik;0;0;0;2;0;0;0;0
+Catalca;Yazlik;0;0;6;22;0;0;0;0
+Cekmekoy;Alemdağ;1;7;56;160;0;0;1;2
+Cekmekoy;Askeri Bolge;0;0;0;0;0;0;0;0
+Cekmekoy;Aydinlar;1;5;53;191;0;0;1;10
+Cekmekoy;Cumhuriyet;1;4;39;139;0;0;2;7
+Cekmekoy;Camlik;0;2;25;145;0;0;1;7
+Cekmekoy;Catalmese;1;8;63;193;0;0;1;4
+Cekmekoy;Eksioglu;1;7;59;171;0;0;1;4
+Cekmekoy;Gungoren;0;3;22;82;0;0;1;4
+Cekmekoy;Hamidiye;1;4;46;224;0;0;2;12
+Cekmekoy;Huseyinli;1;3;22;67;0;0;0;0
+Cekmekoy;Kirazlidere;0;2;21;87;0;0;1;4
+Cekmekoy;Kocullu;1;5;27;67;0;0;0;1
+Cekmekoy;Mehmet Akif;1;7;66;310;0;0;3;19
+Cekmekoy;Merkez;1;13;113;364;0;0;0;8
+Cekmekoy;Mimar Sinan;1;7;70;251;0;0;2;12
+Cekmekoy;Nisantepe;0;4;48;143;0;0;0;0
+Cekmekoy;Orman;0;0;0;0;0;0;0;0
+Cekmekoy;Omerli;3;14;107;281;1;0;2;2
+Cekmekoy;Resadiye;0;6;58;169;0;0;0;0
+Cekmekoy;Sirapinar;1;3;25;70;0;0;0;0
+Cekmekoy;Sogukpinar;0;3;28;95;0;0;0;3
+Cekmekoy;Sultanciftligi;1;4;32;115;0;0;1;6
+Cekmekoy;Tasdelen;0;2;18;68;0;0;1;4
+Esenler;Askeri Bolge;0;0;0;0;0;0;0;0
+Esenler;Birlik;17;41;228;567;23;13;63;124
+Esenler;Cifte Havuzlar;12;23;68;88;11;8;29;51
+Esenler;Davutpasa;28;57;226;387;37;20;96;174
+Esenler;Fatih;41;84;394;837;72;39;190;353
+Esenler;Fevzi Cakmak;32;62;263;544;62;34;162;295
+Esenler;Havaalani;15;40;224;588;20;11;55;111
+Esenler;Kazim Karabekir;26;52;250;604;51;28;135;252
+Esenler;Kemer;31;64;270;519;42;23;111;205
+Esenler;Menderes;35;64;266;576;70;39;184;334
+Esenler;Mimar Sinan;23;43;162;293;36;20;94;168
+Esenler;Namik Kemal;27;54;199;328;33;19;87;157
+Esenler;Nine Hatun;49;90;367;735;102;55;267;480
+Esenler;Orucreis;8;28;220;721;11;6;32;74
+Esenler;Tuna;32;74;365;775;47;26;125;238
+Esenler;Turgut Reis;7;22;178;633;11;6;31;70
+Esenler;Yavuz Selim;8;15;59;107;10;5;26;47
+Esenyurt;Akcaburgaz;9;44;232;457;8;4;27;62
+Esenyurt;Akevler;2;6;27;62;6;3;16;33
+Esenyurt;Aksesmeddin;11;34;131;194;12;7;33;63
+Esenyurt;Ardicli;9;34;149;226;9;4;27;54
+Esenyurt;Asik Veysel;5;10;47;174;13;7;36;67
+Esenyurt;Ataturk;12;45;192;306;12;6;34;76
+Esenyurt;Baglarcesme;20;62;291;550;38;21;103;201
+Esenyurt;Balkikoyu;19;70;306;509;29;16;81;162
+Esenyurt;Barbaros Hayrettin Pasa;5;14;47;141;26;13;69;126
+Esenyurt;Battalgazi;10;35;168;322;15;8;44;90
+Esenyurt;Cumhuriyet;2;14;122;274;14;7;36;64
+Esenyurt;Cinar;14;45;224;448;26;14;72;145
+Esenyurt;Esenkent;5;18;96;197;8;3;21;42
+Esenyurt;Fatih;20;52;226;428;37;22;102;196
+Esenyurt;GokEvler;2;6;22;55;12;5;33;60
+Esenyurt;Guzelyurt;9;24;114;241;19;9;53;102
+Esenyurt;Hurriyet;17;59;248;424;28;16;82;163
+Esenyurt;Incirtepe;23;67;279;471;38;21;105;200
+Esenyurt;Inonu;16;50;227;404;31;16;84;162
+Esenyurt;Istiklal;12;44;207;403;17;10;49;101
+Esenyurt;Koza;4;13;57;118;4;2;14;26
+Esenyurt;Mehmet Akif Ersoy;7;23;114;251;23;12;65;129
+Esenyurt;Mehtercesme;16;49;237;491;42;23;120;240
+Esenyurt;Mevlana;4;9;137;308;22;12;60;107
+Esenyurt;Namik Kemal;33;77;289;452;40;22;109;201
+Esenyurt;Necip Fazil Kisakurek;14;49;208;344;22;12;62;123
+Esenyurt;Orhangazi;6;22;103;193;6;3;18;36
+Esenyurt;Osmangazi;29;117;542;926;25;14;73;153
+Esenyurt;Ornek;16;53;246;429;22;12;61;122
+Esenyurt;Pinar;24;73;341;649;47;27;130;255
+Esenyurt;Piri Reis;2;6;24;78;13;7;35;65
+Esenyurt;Saadetdere;33;78;297;476;45;25;120;223
+Esenyurt;Selahaddin Eyyubi;12;46;223;439;17;9;51;109
+Esenyurt;Sultaniye;11;31;145;285;22;12;61;118
+Esenyurt;Suleymaniye;17;53;261;514;32;18;88;174
+Esenyurt;Sehitler;11;42;196;350;17;9;48;97
+Esenyurt;Talatpasa;16;51;238;460;34;18;93;184
+Esenyurt;Turgut Ozal;19;48;190;329;34;19;93;174
+Esenyurt;UcEvler;13;40;196;413;30;16;82;163
+Esenyurt;Yenikent;16;46;217;411;27;15;73;142
+Esenyurt;Yesilkent;13;41;185;354;36;20;101;199
+Esenyurt;Yunus Emre;18;58;243;384;28;15;78;149
+Esenyurt;Zafer;7;20;85;172;17;9;47;89
+Eyup;Agacli;1;4;20;52;0;0;0;0
+Eyup;Akpinar;4;10;30;65;0;0;2;3
+Eyup;Aksesmettin;4;18;107;402;3;2;14;38
+Eyup;Alibeykoy;19;49;203;397;9;6;26;52
+Eyup;Circir;7;26;148;452;2;1;13;30
+Eyup;Ciftalan;1;3;7;16;0;0;0;0
+Eyup;Defterdar;29;59;207;289;15;10;37;70
+Eyup;Dugmeciler;14;37;183;340;14;9;39;77
+Eyup;Emniyettepe;10;25;108;240;5;3;15;30
+Eyup;Esentepe;10;30;137;341;4;4;17;37
+Eyup;Gokturk Merkez;15;34;231;745;6;1;31;76
+Eyup;Guzeltepe;16;43;321;532;9;6;29;62
+Eyup;Isiklar;1;5;22;57;0;0;0;0
+Eyup;Ihsaniye;0;2;6;14;0;0;0;0
+Eyup;Islambey;22;54;236;482;16;11;44;87
+Eyup;Karadolap;12;41;197;524;5;4;21;47
+Eyup;Merkez;26;53;187;322;15;11;43;79
+Eyup;Mimar Sinan;5;21;101;197;1;1;5;10
+Eyup;Mithatpasa;11;40;180;338;2;2;8;18
+Eyup;Nisanci;24;66;297;492;18;13;50;98
+Eyup;Odayeri;0;2;11;27;0;0;0;0
+Eyup;Pirincci;3;13;65;165;0;0;1;6
+Eyup;Rami Cuma;10;26;119;244;11;7;32;61
+Eyup;Rami Yeni;15;36;157;288;11;7;31;60
+Eyup;Sakarya;6;22;101;265;3;2;11;23
+Eyup;Silah taraga;5;17;90;240;3;2;9;20
+Eyup;Topcular;26;62;260;366;9;5;26;50
+Eyup;Yesilpinar;4;13;83;345;6;3;21;46
+Fatih;Aksaray;81;130;350;510;40;27;103;178
+Fatih;Aksesmettin;64;100;320;654;67;41;174;303
+Fatih;Alemdar;10;21;78;161;0;0;2;3
+Fatih;Ali Kuscu;49;77;222;389;42;28;111;193
+Fatih;Atikali;45;73;218;375;52;32;134;234
+Fatih;Ayvansaray;111;214;568;848;56;47;154;275
+Fatih;Balabanaga;7;12;94;184;0;0;0;1
+Fatih;Balat;78;141;392;645;51;41;137;246
+Fatih;Beyazit;19;36;99;135;13;5;14;20
+Fatih;Binbirdirek;12;22;69;100;3;2;7;13
+Fatih;Cankurtaran;25;53;224;460;4;1;14;24
+Fatih;Cerrahpasa;50;78;209;391;41;25;106;182
+Fatih;Cibali;42;86;299;601;23;18;63;122
+Fatih;Demirtas;18;60;126;266;18;11;31;69
+Fatih;Dervis Ali;16;33;77;115;3;3;9;23
+Fatih;Emin Sinan;13;30;75;115;9;3;9;26
+Fatih;Haci Kadın;19;51;228;374;2;2;17;20
+Fatih;Haseki Sultan;47;90;208;354;45;27;117;201
+Fatih;Hirka i Serif;78;125;362;596;83;52;217;376
+Fatih;Hobyar;10;25;67;137;0;0;0;1
+Fatih;Hoca Giyasettin;12;25;97;149;3;2;8;14
+Fatih;Hocapasa;13;20;75;146;0;0;0;1
+Fatih;Iskenderpasa;41;70;226;487;33;21;88;154
+Fatih;Kalenderhane;4;9;28;43;1;1;4;7
+Fatih;Karagumruk;42;70;204;310;41;27;108;187
+Fatih;Katip Kasim;29;41;128;181;7;5;18;31
+Fatih;Kemalpasa;9;17;76;149;1;0;4;7
+Fatih;Koca Mustafapasa;128;185;456;621;120;78;309;527
+Fatih;Kucuk Ayasofya;27;53;164;232;7;6;20;36
+Fatih;Mercan;12;26;85;144;0;0;1;2
+Fatih;Mesihpasa;7;13;93;133;0;0;1;2
+Fatih;Mevlanakapi;80;124;330;457;84;54;218;375
+Fatih;Mimar Hayrettin;29;51;151;226;5;4;14;24
+Fatih;Mimar Kemalettin;21;35;108;181;2;1;5;8
+Fatih;Molla Fenari;20;36;112;176;0;0;2;3
+Fatih;Molla Gurani;52;82;251;472;48;29;124;215
+Fatih;Molla Husrev;6;13;99;153;2;2;6;10
+Fatih;Muhsine Hatun;19;31;99;153;6;4;16;28
+Fatih;Nisanca;29;53;181;254;12;8;31;55
+Fatih;Rustempasa;6;12;38;63;0;0;0;0
+Fatih;Sarac Ishak;13;23;93;140;3;2;9;15
+Fatih;Saridemir;15;21;44;49;0;0;1;2
+Fatih;Seyyid Omer;77;119;236;407;91;54;236;407
+Fatih;Silivrikapi;53;83;237;371;66;39;171;294
+Fatih;Sultan Ahmet;17;34;98;124;4;3;10;18
+Fatih;Sururi;1;0;0;1;0;0;0;1
+Fatih;Suleymaniye;9;20;68;94;1;0;4;7
+Fatih;Sumbul Efendi;56;108;229;395;63;40;164;281
+Fatih;Sehremini;68;109;327;571;76;44;195;338
+Fatih;Sehsuvar Bey;23;41;92;148;16;8;28;42
+Fatih;Taya Hatun;10;23;65;93;0;0;1;1
+Fatih;Topkapi;61;94;242;338;46;31;120;206
+Fatih;Yavuz Sinan;9;20;92;147;17;9;48;97
+Fatih;Yavuz Sultan Selim;54;104;308;531;39;30;107;191
+Fatih;Yedikule;137;185;410;448;118;83;301;448
+Fatih;Zeyrek;44;79;238;422;34;24;91;161
+Gaziosmanpasa;Baglarbasi;8;24;142;423;10;6;29;60
+Gaziosmanpasa;Barbaros Hayrettinpasa;9;25;185;655;12;6;35;76
+Gaziosmanpasa;Fevzi Cakmak;5;13;82;256;6;3;18;39
+Gaziosmanpasa;Hurriyet;10;24;147;435;13;7;36;72
+Gaziosmanpasa;Karadeniz;9;25;192;759;15;7;44;99
+Gaziosmanpasa;Karayollari;5;21;144;492;5;3;19;48
+Gaziosmanpasa;Karlitepe;4;16;90;251;4;3;13;27
+Gaziosmanpasa;Kazim Karabekir;4;13;95;438;7;3;21;49
+Gaziosmanpasa;Merkez;18;46;249;622;15;9;42;84
+Gaziosmanpasa;Mevlana;1;2;24;135;1;0;4;13
+Gaziosmanpasa;Pazarici;8;26;136;333;6;4;17;36
+Gaziosmanpasa;Sarigol;15;51;219;561;12;9;38;78
+Gaziosmanpasa;Semsipasa;4;11;87;307;6;4;18;38
+Gaziosmanpasa;Yeni Mahalle;11;34;180;515;14;8;39;81
+Gaziosmanpasa;Yenidogan;7;29;127;308;5;4;16;35
+Gaziosmanpasa;Yildiztabya;11;43;177;479;9;7;29;63
+Gungoren;Abdurrahman Nafiz Gurman;22;40;122;207;67;37;174;299
+Gungoren;Akinclar;21;35;150;307;54;29;139;248
+Gungoren;Gencosman;27;57;260;521;66;35;175;323
+Gungoren;Gunestepe;40;75;348;719;102;55;267;487
+Gungoren;Guven;24;39;144;282;63;33;185;282
+Gungoren;Haznedar;30;48;176;351;72;38;185;324
+Gungoren;Maresal Cakmak;32;54;234;487;81;43;210;376
+Gungoren;Mehmet Nesih Ozmen;34;64;214;341;212;66;294;521
+Gungoren;Merkez;44;75;325;661;112;61;292;521
+Gungoren;Sanayi;38;75;300;509;44;22;117;209
+Gungoren;Tozkoparan;30;49;134;212;52;37;136;379
+Kadikoy;19 Mayis;3;8;42;204;5;2;18;38
+Kadikoy;Acibadem;9;20;113;367;12;6;38;73
+Kadikoy;Bostanci;8;20;96;345;11;4;35;67
+Kadikoy;Caddebostan;6;15;74;260;6;2;22;43
+Kadikoy;Caferaga;17;38;196;648;13;6;39;74
+Kadikoy;Dumlupinar;13;33;152;248;11;6;31;58
+Kadikoy;Egitim;18;49;221;396;15;9;40;75
+Kadikoy;Erenkoy;5;12;53;232;8;3;26;49
+Kadikoy;Fenerbahce;5;15;81;256;4;1;15;30
+Kadikoy;Feneryolu;4;10;49;198;6;2;21;40
+Kadikoy;Fikirtepe;17;43;207;316;10;6;29;55
+Kadikoy;Goztepe;6;14;66;292;7;3;28;54
+Kadikoy;Hasanpasa;18;40;182;405;16;10;46;87
+Kadikoy;Kosuyolu;6;23;116;280;2;2;12;26
+Kadikoy;Kozyatagi;3;8;39;208;5;2;20;40
+Kadikoy;Merdivenkoy;17;42;191;434;17;9;49;96
+Kadikoy;Osmanağa;16;33;167;481;10;5;25;46
+Kadikoy;Rasimpasa;18;41;189;518;12;6;31;58
+Kadikoy;Sahrayicedit;4;9;46;204;6;3;24;46
+Kadikoy;Suadiye;5;12;68;265;5;2;19;37
+Kadikoy;Zuhtupasa;11;20;78;160;9;4;24;43
+Kagithane;Caglayan;6;19;137;462;5;3;19;43
+Kagithane;Celiktepe;4;11;95;393;4;1;13;30
+Kagithane;Emniyet Evleri;1;2;17;83;1;0;3;7
+Kagithane;Gultepe;2;6;51;204;2;1;6;13
+Kagithane;Gursel;8;22;137;430;6;3;22;47
+Kagithane;Hamidiye;3;12;63;252;3;2;16;37
+Kagithane;Harmantepe;3;10;86;311;2;1;8;20
+Kagithane;Hurriyet;4;14;87;313;4;2;11;25
+Kagithane;Mehmet Akif Ersoy;10;25;112;243;8;6;23;44
+Kagithane;Merkez;11;31;162;459;9;6;29;61
+Kagithane;Nurtepe;9;25;123;326;8;5;26;52
+Kagithane;Ortabayir;3;8;67;276;3;1;10;22
+Kagithane;Seyrantepe;3;10;71;286;1;0;8;22
+Kagithane;Sultan Selim;3;9;74;356;3;1;12;28
+Kagithane;Sirintepe;2;8;55;229;3;1;8;19
+Kagithane;Talatpasa;12;32;178;529;12;6;32;68
+Kagithane;Telsizler;2;5;41;173;2;1;6;14
+Kagithane;Yahya Kemal;6;21;125;304;7;4;19;39
+Kagithane;Yesilce;2;5;46;187;1;0;4;10
+Kartal;Atalar;8;19;131;438;12;5;33;68
+Kartal;Aydos Devlet Ormani;0;0;0;0;0;0;0;0
+Kartal;Cevizli;8;22;151;435;9;5;27;57
+Kartal;Cumhuriyet;5;21;141;407;2;0;12;28
+Kartal;Cavusoglu;12;33;170;373;7;3;20;40
+Kartal;Esentepe;9;32;209;564;5;2;21;48
+Kartal;Gumuspinar;6;22;133;366;7;3;22;49
+Kartal;Hurriyet;19;72;401;948;13;7;48;107
+Kartal;Karliktepe;12;31;185;517;11;6;33;68
+Kartal;Kordonboyu;10;24;105;254;10;5;29;55
+Kartal;Orhantepe;22;62;309;618;18;8;57;114
+Kartal;Orta;3;10;72;255;3;1;10;23
+Kartal;Petrol Is;7;17;109;377;11;5;31;63
+Kartal;Soganlik Yeni;6;21;133;397;6;2;20;45
+Kartal;Topselvi;10;29;167;325;8;4;22;44
+Kartal;Uğur Mumcu;4;9;42;194;16;8;47;91
+Kartal;Yakacik Carsi;13;44;199;441;5;3;21;48
+Kartal;Yakacik Yeni;9;32;152;314;7;4;24;50
+Kartal;Yali;13;31;148;279;11;7;29;56
+Kartal;Yukari;6;15;73;188;6;3;16;31
+Kartal;Yunus;17;47;252;483;9;6;31;63
+Kucukcekmece;Atakent;8;25;118;356;24;10;82;170
+Kucukcekmece;Ataturk;32;97;473;985;41;25;115;230
+Kucukcekmece;Besyol;7;17;55;88;5;3;14;27
+Kucukcekmece;Cennet;88;134;325;415;126;85;330;567
+Kucukcekmece;Cumhuriyet;109;209;626;803;148;89;392;696
+Kucukcekmece;Fatih;54;74;168;184;54;34;140;238
+Kucukcekmece;Fevzi Cakmak;84;155;477;603;89;51;232;406
+Kucukcekmece;Gultepe;52;116;391;591;68;39;182;332
+Kucukcekmece;Halkali Merkez;57;163;709;1315;92;53;255;492
+Kucukcekmece;Inonu;95;243;924;1399;143;83;385;711
+Kucukcekmece;Istasyon;46;116;452;751;46;29;129;246
+Kucukcekmece;Kanarya;116;235;802;1210;144;91;384;696
+Kucukcekmece;Kartaltepe;62;112;313;374;52;34;137;239
+Kucukcekmece;Kemalpasa;34;65;219;316;44;24;114;202
+Kucukcekmece;Mehmet Akif;21;75;435;991;33;19;95;201
+Kucukcekmece;Sogutlu Cesme;82;181;645;892;89;51;236;424
+Kucukcekmece;Sultan Murat;42;85;262;329;47;28;125;222
+Kucukcekmece;Tevfikbey;87;171;533;722;103;63;272;482
+Kucukcekmece;Yarimburgaz;11;45;204;362;3;2;20;45
+Kucukcekmece;Yeni Mahalle;67;118;327;437;71;49;190;336
+Kucukcekmece;Yesilova;86;180;520;676;93;63;250;451
+Maltepe;Altaycesme;6;15;90;294;9;4;27;57
+Maltepe;Altintepe;10;22;126;403;18;9;47;93
+Maltepe;Aydinevler;4;16;86;265;2;1;12;31
+Maltepe;Baglarbasi;26;59;309;720;35;19;95;181
+Maltepe;Basibuyuk;19;68;286;618;10;8;37;80
+Maltepe;Buyukbakkalkoy;3;15;86;189;0;0;1;5
+Maltepe;Cevizli;27;69;343;710;30;15;85;162
+Maltepe;Cinar;4;10;67;218;6;3;19;41
+Maltepe;Esenkent;22;70;290;581;18;12;55;108
+Maltepe;Feyzullah;14;30;140;313;20;10;53;98
+Maltepe;Findikli;4;14;130;561;4;2;22;57
+Maltepe;Girne;2;9;53;176;2;0;10;25
+Maltepe;Gulensu;28;99;400;753;14;12;44;90
+Maltepe;Gulsuyu;20;67;316;595;12;9;37;76
+Maltepe;Idealtepe;4;12;84;270;7;3;22;47
+Maltepe;Kucukyalı Merkez;6;15;100;315;9;4;27;57
+Maltepe;Yali;25;57;212;320;20;11;55;102
+Maltepe;Zumrutevler;13;43;270;855;18;8;58;128
+Pendik;Ahmet Yesevi;7;38;233;524;6;2;24;59
+Pendik;Bahcelievler;7;23;130;306;6;3;19;38
+Pendik;Ballica;1;4;25;60;0;0;0;0
+Pendik;Batı;8;23;122;309;8;4;25;50
+Pendik;Camcesme;7;23;161;487;8;4;26;57
+Pendik;Camlik;3;19;114;243;1;0;5;21
+Pendik;Cinar Dere;11;38;188;386;8;6;27;56
+Pendik;Doğu;9;26;130;321;10;5;30;59
+Pendik;Dumlupinar;17;58;286;611;11;8;38;82
+Pendik;Emirli;0;2;12;36;0;0;0;0
+Pendik;Ertugrul Gazi;29;107;405;796;7;9;40;85
+Pendik;Esenler;3;15;111;366;2;1;12;31
+Pendik;Esenyali;5;14;65;277;7;3;19;37
+Pendik;Fatih;6;25;163;415;6;3;19;43
+Pendik;Fevzi Cakmak;7;26;179;537;7;2;26;60
+Pendik;Gocbeyli;1;6;45;118;0;0;0;0
+Pendik;Gullu Baglar;4;21;131;316;1;0;11;26
+Pendik;Guzelyali;8;27;133;513;10;3;31;62
+Pendik;Harmandere;5;16;60;118;4;2;13;27
+Pendik;Kavakpinar;21;93;557;1271;19;8;65;145
+Pendik;Kaynaca;12;37;235;734;14;6;46;99
+Pendik;Kurna;2;9;47;111;0;0;0;1
+Pendik;Kurt Dogmus;0;1;10;35;0;0;0;0
+Pendik;Kurtkoy;3;15;109;334;0;0;8;26
+Pendik;Orhangazi;8;33;217;557;9;4;26;59
+Pendik;Orman;0;0;0;0;0;0;0;0
+Pendik;Orta;8;24;107;196;5;4;16;32
+Pendik;Ramazanoğlu;11;47;212;354;1;0;10;23
+Pendik;Sanayi;6;28;133;219;3;2;9;19
+Pendik;Sapan Baglari;10;27;135;266;8;5;22;45
+Pendik;Suluntepe;8;41;230;537;4;2;19;47
+Pendik;Seyhli;7;27;144;313;4;2;17;38
+Pendik;Velibaba;10;48;271;665;5;3;26;66
+Pendik;Yayalar;5;21;112;256;1;0;10;24
+Pendik;Yeni;16;44;208;365;14;8;38;74
+Pendik;Yenisehir;3;18;117;335;2;0;17;49
+Pendik;Yesilbaglar;6;17;88;162;4;2;13;26
+Sancaktepe;Abdurrahmangazi;5;29;183;515;3;1;13;35
+Sancaktepe;Akpinar;14;57;268;534;11;7;36;78
+Sancaktepe;Ataturk;1;6;69;285;0;0;2;12
+Sancaktepe;Emek;4;22;144;394;3;1;14;36
+Sancaktepe;Eyup Sultan;5;24;154;419;1;0;9;28
+Sancaktepe;Fatih;7;35;213;538;4;1;21;54
+Sancaktepe;Hilal;1;7;54;148;0;0;2;6
+Sancaktepe;Inonu;1;4;48;228;0;0;2;11
+Sancaktepe;Kemal Turkler;1;7;63;230;0;0;3;12
+Sancaktepe;Kuzudere Devlet Ormani;0;0;0;0;0;0;0;0
+Sancaktepe;Meclis;1;6;64;286;1;0;4;15
+Sancaktepe;Merve;2;12;96;285;0;0;3;15
+Sancaktepe;Mevlana;2;14;93;265;1;1;6;18
+Sancaktepe;Osmangazi;19;84;416;861;11;6;46;111
+Sancaktepe;Pasakoy;1;9;51;125;0;0;0;0
+Sancaktepe;Safa;2;13;88;256;1;0;7;21
+Sancaktepe;Sarigazi;4;17;114;322;3;1;12;30
+Sancaktepe;Veysel Karani;10;47;250;504;8;5;26;58
+Sancaktepe;Yenidogan;1;6;63;226;0;0;2;9
+Sancaktepe;Yunus Emre;3;17;108;312;1;1;9;25
+Sariyer;Ayazaga;5;23;152;448;2;1;13;33
+Sariyer;Bahcekoy Merkez;0;1;11;39;0;0;0;2
+Sariyer;Bahcekoy Yeni;0;1;13;47;0;0;0;1
+Sariyer;Baltalimani;3;12;74;187;0;0;3;8
+Sariyer;Buyukdere;7;22;123;298;2;1;7;17
+Sariyer;Cumhuriyet;2;10;66;200;0;0;3;10
+Sariyer;Camlitepe;1;4;27;97;0;0;1;5
+Sariyer;Cayirbasi;12;27;98;169;5;3;15;28
+Sariyer;Darussafaka;1;3;31;92;0;0;1;3
+Sariyer;Demirci;1;3;31;92;0;0;0;0
+Sariyer;Emirgan;1;3;39;130;0;0;0;1
+Sariyer;Fatih Sultan Mehmet;3;19;153;434;4;1;14;30
+Sariyer;Ferahevler;1;5;65;203;0;0;1;5
+Sariyer;Garipce;0;1;6;19;0;0;0;0
+Sariyer;Gumusdere;1;5;37;107;0;0;0;0
+Sariyer;Huzur;1;4;26;94;0;0;1;3
+Sariyer;Istinye;11;30;141;284;8;5;23;44
+Sariyer;Kazim Karabekir Pasa;2;10;75;217;0;0;2;8
+Sariyer;Kemer;0;1;12;40;0;0;0;0
+Sariyer;Kisirkaya;0;2;27;98;0;0;0;1
+Sariyer;Kirecburnu;1;2;12;31;0;0;0;0
+Sariyer;Kocatas;1;6;46;134;0;0;1;4
+Sariyer;Kumkoy;1;6;57;173;0;0;0;0
+Sariyer;Maden;4;14;111;310;1;1;6;13
+Sariyer;Maslak;1;6;45;124;1;1;6;15
+Sariyer;Merkez;15;37;179;380;8;5;25;47
+Sariyer;Orman;0;0;0;0;0;0;0;0
+Sariyer;Pinar;2;9;59;192;1;1;4;10
+Sariyer;Poligon;1;3;28;91;0;0;0;3
+Sariyer;PTT Evleri;4;9;53;111;2;1;7;14
+Sariyer;Resitpasa;4;18;125;384;1;1;6;18
+Sariyer;Rumeli Hisari;3;11;77;223;0;0;3;8
+Sariyer;Rumeli Kavagi;3;9;56;135;0;0;2;6
+Sariyer;Rumelifeneri;1;3;28;89;0;0;0;0
+Sariyer;Tarabya;0;4;51;205;0;0;0;1
+Sariyer;Uskumrukoy;1;12;123;364;1;1;1;3
+Sariyer;Yeni;5;11;60;136;2;1;5;11
+Sariyer;Yenikoy;2;8;92;287;0;0;2;8
+Sariyer;Zekeriyakoy;1;8;103;360;0;0;0;0
+Silivri;Akoren;0;1;11;33;0;0;0;0
+Silivri;Alibey;4;14;72;167;2;1;7;13
+Silivri;Alipasa;3;11;60;138;1;1;5;10
+Silivri;Balaban;0;2;13;38;0;0;0;1
+Silivri;Bekirli;0;1;11;36;0;0;0;0
+Silivri;Beyciler;1;3;19;54;0;0;0;0
+Silivri;Buyuk Cavuslu;8;22;105;203;1;1;6;11
+Silivri;Buyuk Kilicli;1;3;20;60;0;0;0;0
+Silivri;Buyuk Sinekli;0;2;13;43;0;0;0;0
+Silivri;Cumhuriyet;3;13;58;125;3;1;10;18
+Silivri;Cayirdere;1;3;19;59;0;0;0;0
+Silivri;Celtik;1;5;25;68;0;0;0;0
+Silivri;Danamandira;0;1;12;38;0;0;0;0
+Silivri;Fatih;2;9;40;109;0;0;1;3
+Silivri;Fener;1;5;26;86;0;0;1;2
+Silivri;Fevzipasa;8;35;152;288;2;1;8;14
+Silivri;Gazitepe;0;2;11;32;0;0;0;0
+Silivri;Gumusyaka;7;23;86;125;1;1;6;10
+Silivri;Hurriyet;13;47;203;331;5;3;15;25
+Silivri;Ismetpasa;5;17;78;137;1;1;5;9
+Silivri;Kadikoy;8;26;117;182;2;1;10;18
+Silivri;Kavakli;0;3;20;62;0;0;0;0
+Silivri;Kurfalli;2;7;31;68;0;0;0;1
+Silivri;Kucuk Kilicli;0;1;15;45;0;0;0;0
+Silivri;Kucuk Sinekli;0;1;13;36;0;0;0;0
+Silivri;Mimar Sinan;16;56;234;385;4;3;14;28
+Silivri;Ortakoy;5;17;73;133;3;2;12;20
+Silivri;Piri Mehmet Pasa;4;15;64;118;2;1;7;12
+Silivri;Sancaktepe;3;15;63;115;2;1;7;12
+Silivri;Sayalar;1;3;17;51;0;0;0;0
+Silivri;Selimpasa;13;49;241;421;5;3;17;29
+Silivri;Semizkumlar;2;12;56;92;0;0;2;5
+Silivri;Seymen;1;5;26;76;0;0;0;1
+Silivri;Yeni;2;11;52;126;0;0;0;0
+Silivri;Yolcati;1;4;23;71;0;0;0;0
+Sultanbeyli;Abdurrahmangazi;14;68;389;781;11;7;36;85
+Sultanbeyli;Adil;2;12;96;265;0;0;5;19
+Sultanbeyli;Ahmet Yesevi;8;45;292;677;6;2;23;57
+Sultanbeyli;Aksesmettin;4;29;182;377;2;1;11;30
+Sultanbeyli;Battalgazi;9;58;368;789;4;2;23;63
+Sultanbeyli;Fatih;6;40;256;518;5;2;20;48
+Sultanbeyli;Hamidiye;12;67;379;702;10;6;36;83
+Sultanbeyli;Hasanpasa;6;36;217;461;4;3;17;42
+Sultanbeyli;Mecidiye;7;42;260;568;4;3;17;46
+Sultanbeyli;Mehmet Akif;12;60;362;743;10;5;34;78
+Sultanbeyli;Mimar Sinan;3;26;178;436;0;0;5;24
+Sultanbeyli;Necip Fazil;8;52;285;512;5;2;21;51
+Sultanbeyli;Orhangazi;7;41;223;410;6;3;22;51
+Sultanbeyli;Salgamli Devlet Ormani;0;0;0;0;0;0;0;0
+Sultanbeyli;Teferruc Tepe Ormani;0;0;0;0;0;0;0;0
+Sultanbeyli;Turgut Reis;3;23;168;417;1;0;10;29
+Sultanbeyli;Yavuz Selim;8;49;294;569;5;2;20;50
+Sultangazi;50. Yil;10;32;278;1045;14;7;45;105
+Sultangazi;75. Yil;2;5;47;262;2;0;8;22
+Sultangazi;Askeri Bolge Esenler;0;0;0;0;0;0;0;0
+Sultangazi;Cebeci;7;30;256;923;5;2;21;56
+Sultangazi;Cumhuriyet;1;2;25;134;1;0;4;10
+Sultangazi;Esentepe;4;19;160;686;3;1;17;48
+Sultangazi;Eski Habipler;1;6;37;120;0;0;0;4
+Sultangazi;Gazi;6;24;121;404;6;4;20;46
+Sultangazi;Habibler;3;19;91;275;0;0;0;8
+Sultangazi;Ismetpasa;4;13;138;611;5;2;17;45
+Sultangazi;Malkocoglu;0;2;26;134;0;0;2;6
+Sultangazi;Sultanciftligi;3;10;104;454;4;1;14;35
+Sultangazi;Ugur Mumcu;8;25;206;713;11;5;33;76
+Sultangazi;Yayla;2;11;77;211;0;0;1;6
+Sultangazi;Yunus Emre;2;9;74;360;3;2;14;37
+Sultangazi;Zubeyde Hanim;8;38;164;552;3;3;21;52
+Sile;Agacdere;0;1;5;13;0;0;0;0
+Sile;Agva Merkez;1;9;39;117;0;0;0;0
+Sile;Ahmetli;2;6;38;110;0;0;0;0
+Sile;Akcakse;0;2;16;40;0;0;0;0
+Sile;Alacali;0;1;15;53;0;0;0;0
+Sile;Avcikoru;0;1;6;17;0;0;0;0
+Sile;Balibey;0;3;50;185;0;0;0;0
+Sile;Bickidere;1;3;14;33;0;0;0;0
+Sile;Bozgoca;0;0;5;9;0;0;0;0
+Sile;Bucakli;0;1;10;33;0;0;0;0
+Sile;Catalkil;1;1;7;18;0;0;0;0
+Sile;Cavus;1;5;62;209;0;0;0;0
+Sile;Cayirbasi;1;7;28;109;0;0;0;0
+Sile;Celebi;0;0;3;7;0;0;0;0
+Sile;Cengilli;0;1;4;11;0;0;0;0
+Sile;Darlik;0;1;21;44;0;0;0;0
+Sile;Degirmencayiri;0;1;16;63;0;0;0;0
+Sile;Dogancili;0;2;5;22;0;0;0;0
+Sile;Erenler;0;0;14;59;0;0;0;0
+Sile;Esencli;0;1;3;8;0;0;0;0
+Sile;Gerede;1;4;24;72;0;0;0;0
+Sile;Goce;1;2;18;40;0;0;0;0
+Sile;Gokmasli;0;1;18;32;0;0;0;0
+Sile;Goksu;1;1;7;19;0;0;0;0
+Sile;Haci Kasim;0;2;8;20;0;0;0;0
+Sile;Hacili;1;8;20;36;0;0;0;0
+Sile;Hasanli;0;1;9;25;0;0;0;0
+Sile;Imrendere;0;2;15;48;0;0;0;0
+Sile;Imrenli;0;2;14;49;0;0;0;0
+Sile;Isakoy;1;1;10;26;0;0;0;0
+Sile;Kabakoz;1;2;23;75;0;0;0;0
+Sile;Kadikoy;0;2;9;19;0;0;0;0
+Sile;Kalem;0;2;7;28;0;0;0;0
+Sile;Karabeyli;0;1;6;18;0;0;0;0
+Sile;Karacakoy;0;1;7;25;0;0;0;0
+Sile;Karakiraz;0;1;7;23;0;0;0;0
+Sile;Karamandere;0;1;6;18;0;0;0;0
+Sile;Kervansaray;1;3;16;49;0;0;0;0
+Sile;Kizilca;0;1;16;49;0;0;0;0
+Sile;Korucu;0;1;9;20;0;0;0;0
+Sile;Komurluk;0;1;8;19;0;0;0;0
+Sile;Kumbaba;1;5;52;154;0;0;0;0
+Sile;Kurfal;0;1;5;19;0;0;0;0
+Sile;Kurna;0;0;3;10;0;0;0;0
+Sile;Mesrutiyet;0;1;12;40;0;0;0;0
+Sile;Oruccoglu;0;1;6;20;0;0;0;0
+Sile;Osmankoy;0;2;8;20;0;0;0;0
+Sile;Ocakli;0;0;2;4;0;0;0;0
+Sile;Sahilkoy;0;2;26;94;0;0;0;0
+Sile;Satmazli;0;1;10;30;0;0;0;0
+Sile;Sofular;0;0;5;19;0;0;0;0
+Sile;Sogullu;1;2;9;23;0;0;0;0
+Sile;Sortullu;0;2;3;7;0;0;0;0
+Sile;Suayipli;0;1;7;25;0;0;0;0
+Sile;Teke;1;0;16;49;0;0;0;0
+Sile;Ulupelit;1;2;10;27;0;0;0;0
+Sile;Uvezli;0;1;8;16;0;0;0;0
+Sile;Yaka;1;2;4;9;0;0;0;0
+Sile;Yaylali;0;1;4;13;0;0;0;0
+Sile;Yazimanayir;0;2;7;20;0;0;0;0
+Sile;Yenikoy;0;2;8;26;0;0;0;0
+Sile;Yesilvadi;0;1;4;13;0;0;0;0
+Sisli;19 Mayis;2;5;24;131;2;1;7;14
+Sisli;Bozkurt;3;7;37;187;2;1;6;13
+Sisli;Cumhuriyet;2;4;21;122;2;1;5;10
+Sisli;Duatepe;2;4;22;118;1;1;5;9
+Sisli;Ergenekon;1;5;23;98;1;1;3;6
+Sisli;Esentepe;2;7;33;145;0;0;3;10
+Sisli;Eskisehir;4;14;69;248;3;2;8;17
+Sisli;Ferikoy;3;7;37;182;3;2;8;17
+Sisli;Fulya;2;5;26;166;3;1;10;20
+Sisli;Gulbahar;2;7;37;176;3;1;9;19
+Sisli;Halaskargazi;1;3;15;80;0;0;2;4
+Sisli;Halide Edip Adivar;2;6;33;154;2;0;6;15
+Sisli;Halil Rifat Pasa;1;5;22;80;1;0;3;7
+Sisli;Harbiye;1;3;15;68;0;0;1;3
+Sisli;Inonu;3;11;49;172;1;0;3;7
+Sisli;Izzet Pasa;2;6;30;118;2;1;5;10
+Sisli;Kaptanpasa;0;1;5;20;0;0;1;2
+Sisli;Kustepe;5;22;104;343;4;3;13;29
+Sisli;Mahmut Sevket Pasa;4;13;64;255;5;3;15;31
+Sisli;Mecidiyekoy;3;8;42;206;4;1;11;24
+Sisli;Merkez;4;10;54;284;3;1;10;21
+Sisli;Mesrutiyet;7;13;58;263;4;2;10;18
+Sisli;Pasa;5;21;93;325;4;2;12;27
+Sisli;Tesvikiye;3;6;30;180;2;1;7;15
+Sisli;Yayla;4;14;65;212;3;2;9;20
+Tuzla;Akfirat;1;11;65;117;0;0;0;2
+Tuzla;Anadolu;0;4;23;48;0;0;0;1
+Tuzla;Askeri Bolge;0;0;0;0;0;0;0;0
+Tuzla;Aydinli;41;176;821;1481;22;12;87;188
+Tuzla;Aydintepe;11;38;191;458;12;6;34;72
+Tuzla;Cami;26;73;250;278;11;6;33;61
+Tuzla;Evliya Celebi;19;65;255;395;9;4;27;56
+Tuzla;Fatih;1;5;32;72;0;0;0;0
+Tuzla;Icmeler;14;43;193;344;8;5;27;54
+Tuzla;Istasyon;46;98;312;450;29;19;80;149
+Tuzla;Mescit;5;27;123;197;1;1;7;17
+Tuzla;Mimar Sinan;77;199;586;717;57;43;159;293
+Tuzla;Orhanli;12;72;332;526;1;1;6;12
+Tuzla;Orta;3;24;138;274;1;0;4;13
+Tuzla;Postane;56;183;737;1001;17;10;65;130
+Tuzla;Sifa;103;238;673;733;81;50;218;392
+Tuzla;Tepeoren;8;49;287;595;0;0;2;4
+Tuzla;Yayla;23;65;292;553;19;12;59;121
+Umraniye;Adem Yavuz;5;24;137;356;2;1;12;28
+Umraniye;Altinsehir;3;15;126;418;3;1;12;31
+Umraniye;Armagan Evler;2;9;87;346;1;0;9;26
+Umraniye;Asagi Dudullu;5;26;151;337;2;1;11;26
+Umraniye;Atakent;1;6;57;197;0;0;4;14
+Umraniye;Ataturk;2;7;68;276;2;1;9;23
+Umraniye;Cemil Meric;14;56;284;644;7;7;24;57
+Umraniye;Cakmak;1;5;52;275;0;0;5;18
+Umraniye;Camlik;0;3;28;161;0;0;2;8
+Umraniye;Dumlupinar;5;29;163;434;0;0;9;23
+Umraniye;Elmalikent;3;20;141;383;0;0;8;24
+Umraniye;Esen Evler;1;3;37;196;0;0;3;13
+Umraniye;Esenkent;3;21;163;462;0;0;4;18
+Umraniye;Esen Sehir;5;24;163;414;4;1;11;31
+Umraniye;Fatih Sultan Mehmet;0;18;107;54;0;0;1;3
+Umraniye;Hekimbasi;3;18;107;286;0;0;3;12
+Umraniye;Huzur;2;14;108;264;0;0;5;15
+Umraniye;Ihlamurkuyu;6;26;147;373;3;2;13;31
+Umraniye;Inkilap;4;22;175;481;1;0;8;26
+Umraniye;Istiklal;2;7;69;335;1;0;7;24
+Umraniye;Kazim Karabekir;5;25;179;459;2;0;9;25
+Umraniye;Madenler;1;7;57;187;0;0;3;12
+Umraniye;Mehmet Akif;0;2;19;110;0;0;2;8
+Umraniye;Namik Kemal;2;7;68;283;1;0;8;20
+Umraniye;Necip Fazil;9;43;238;532;8;2;24;55
+Umraniye;Parseller;3;18;124;301;1;0;8;22
+Umraniye;Saray;1;3;24;73;0;0;0;1
+Umraniye;Site;4;17;101;297;2;1;9;26
+Umraniye;Serifali;1;5;48;179;0;0;1;4
+Umraniye;Tantavi;1;3;24;83;0;0;2;6
+Umraniye;Tatlicu;0;3;24;110;0;0;1;7
+Umraniye;Tepeustu;1;6;50;181;1;0;4;12
+Umraniye;Topagaci;5;32;186;501;0;0;7;23
+Umraniye;Yamanevler;1;5;47;185;0;0;4;13
+Umraniye;Yukari Dudullu;4;21;159;483;1;0;6;19
+Uskudar;Acibadem;2;6;38;185;2;1;13;28
+Uskudar;Ahmediye;3;7;36;163;3;1;9;18
+Uskudar;Altunizade;0;6;38;110;1;0;6;16
+Uskudar;Aziz Mahmut Hudayi;7;16;93;240;4;2;13;25
+Uskudar;Bahcelievler;6;29;154;419;2;1;11;30
+Uskudar;Barbaros;2;7;44;152;2;1;8;19
+Uskudar;Beylerbeyi;4;7;59;213;0;0;4;13
+Uskudar;Bulgurlu;1;5;51;253;1;0;6;18
+Uskudar;Burhaniye;4;1;38;264;1;0;10;24
+Uskudar;Cumhuriyet;3;7;84;302;2;1;11;28
+Uskudar;Cengelkoy;7;20;194;388;2;1;11;27
+Uskudar;Ferah;6;22;179;358;5;3;19;42
+Uskudar;Guzeltepe;3;14;109;203;1;0;6;27
+Uskudar;Icadiye;6;17;74;313;5;1;15;31
+Uskudar;Kandilli;0;0;4;72;0;0;0;1
+Uskudar;Kisikli;4;17;128;373;2;1;10;27
+Uskudar;Kirazlitepe;6;24;157;351;3;2;14;31
+Uskudar;Kuleli;1;6;37;94;0;0;0;4
+Uskudar;Kuzguncuk;4;16;106;363;1;0;5;11
+Uskudar;Kucuk Camlica;5;23;150;264;0;0;7;25
+Uskudar;Kucuksu;3;14;107;379;1;0;4;18
+Uskudar;Kupluce;2;17;142;356;2;1;11;26
+Uskudar;Mehmet Akif Ersoy;5;20;156;377;3;1;13;32
+Uskudar;Mimar Sinan;12;27;198;414;11;6;29;58
+Uskudar;Muratreis;4;9;56;193;6;3;16;32
+Uskudar;Salacak;4;8;53;193;3;2;9;20
+Uskudar;Selami Ali;8;16;79;284;4;2;12;25
+Uskudar;Selimiye;6;16;76;228;3;1;8;16
+Uskudar;Sultantepe;7;18;78;299;6;3;18;35
+Uskudar;Unalan;8;24;173;307;7;3;23;51
+Uskudar;Valide I Atik;9;23;137;502;7;3;19;39
+Uskudar;Yavuzturk;5;27;86;173;2;1;15;42
+Uskudar;Zeynep Kamil;4;25;35;173;3;1;10;20
+Zeytinburnu;Bestelsiz;43;89;354;622;56;31;147;268
+Zeytinburnu;Cirpici;49;98;357;572;77;43;202;360
+Zeytinburnu;Gokalp;31;62;253;456;45;24;118;215
+Zeytinburnu;Kazlicesme;25;44;126;182;13;8;36;68
+Zeytinburnu;Maltepe;62;125;378;513;15;8;44;81
+Zeytinburnu;Merkezefendi;29;60;216;369;39;24;105;193
+Zeytinburnu;Nuripasa;39;77;308;529;66;37;173;314
+Zeytinburnu;Seyitnizam;37;92;363;592;51;28;134;246
+Zeytinburnu;Sumer;41;80;319;561;87;47;229;414
+Zeytinburnu;Telsiz;72;133;470;801;84;48;223;400
+Zeytinburnu;Veliefendi;39;80;309;530;66;38;175;317
+Zeytinburnu;Yenidogan;17;33;135;234;24;13;63;114
+Zeytinburnu;Yesiltepe;26;52;211;374;45;25;118;216
