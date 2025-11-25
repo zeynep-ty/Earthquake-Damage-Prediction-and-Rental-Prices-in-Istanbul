@@ -24,7 +24,8 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
    - area_m2: Apartment size in square meters (m²)
    - age: Age of the building
    - floor: Floor number (Negative values indicate basement floors)
-   - price: Rental price per square meter in Turkish Lira (TRY)
+   - price_per_m2: Rental price per square meter in Turkish Lira (TRY)
+   - total_rent: Total rental price of apartment
      
 **Earthquake Risk Data — “District-Level Earthquake Loss Estimation Reports” (İBB)**
 - Published by the Istanbul Metropolitan Municipality (İBB) Earthquake and Ground Investigation Department under the "Olası Deprem Kayıp Tahminleri İlçe Kitapçıkları" project (2020–2025).
