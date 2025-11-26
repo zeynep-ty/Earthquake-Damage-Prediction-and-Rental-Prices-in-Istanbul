@@ -42,7 +42,7 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
     - Casualty Ratio: proportion of predicted minor injuries, hospitalizations, severe injuries, and fatalities relative to the neighborhood population
  - Conduct exploratory data analysis (EDA) to observe trends and outliers
  - Perform statistical tests and correlation analysis to see how rent relates to risk and property factors
- - Visualize results using charts and maps to highlight spatial patterns
+ - Visualize results using charts to highlight patterns
   
 ## Hypotheses
   - **H1 - Earthquake Risk vs Rent:**
@@ -54,7 +54,3 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
   - **H3 - Floor Level vs Earthquake Risk Interaction:** 
       - **Null Hypothesis(H0):** Floor level has the same impact on rental prices across low-risk and high-risk neighborhoods.
       - **Alternative Hypothesis(H3):** Higher-floor apartments become cheaper in high-risk neighborhoods compared to low-risk ones, showing that people are more worried about living on upper floors when the earthquake risk is higher.
-  - **H4 - Dominant Factor Comparison:**
-      - **Null Hypothesis(H0):** Earthquake risk indicators and property features(size, building age, room count, floor level, etc.) have equal predictive power for rental prices.
-      - **Alternative Hypothesis(H4):** The influence of property characteristics on rental prices is stronger than the effect of earthquake risk indicators, suggesting that market             dynamics prioritize structural factors over risk perception.
-
