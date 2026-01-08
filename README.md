@@ -55,6 +55,10 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
       - **Null Hypothesis(H0):** Floor level has the same impact on rental prices across low-risk and high-risk neighborhoods.
       - **Alternative Hypothesis(H3):** Higher-floor apartments become cheaper in high-risk neighborhoods compared to low-risk ones, showing that people are more worried about living on upper floors when the earthquake risk is higher.
    
+## Methodology Overview
+
+The analysis follows a three-stage pipeline. First, exploratory data analysis (EDA) is conducted on the merged rental and earthquake datasets to understand distributions, detect outliers, and identify preliminary relationships. Second, formal hypothesis testing is performed to quantify the statistical significance and magnitude of the relationships between earthquake risk, property characteristics, and rental prices. Finally, multiple machine learning models are trained to evaluate predictive performance and to compare the relative importance of earthquake risk indicators versus structural apartment features.
+   
 ## Results and Interpretation
 
 ### Exploratory Data Analysis (EDA)
