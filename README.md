@@ -54,3 +54,47 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
   - **H3 - Floor Level vs Earthquake Risk Interaction:** 
       - **Null Hypothesis(H0):** Floor level has the same impact on rental prices across low-risk and high-risk neighborhoods.
       - **Alternative Hypothesis(H3):** Higher-floor apartments become cheaper in high-risk neighborhoods compared to low-risk ones, showing that people are more worried about living on upper floors when the earthquake risk is higher.
+   
+## Results and Interpretation
+
+### Exploratory Data Analysis (EDA)
+
+The merged dataset successfully integrates rental listings with detailed neighborhood-level earthquake indicators. Earthquake-related variables are transformed into normalized ratios and a unified earthquake risk index, enabling consistent comparisons across districts and neighborhoods.
+
+Rental prices are heavily right-skewed and show substantial spatial variation across Istanbul. Property characteristics such as apartment size, number of rooms, building age, and floor level exhibit clear and interpretable relationships with price per square meter. In comparison, earthquake risk shows a negative but moderate association with rental prices: higher-risk neighborhoods tend to have lower average prices per m², although this effect is weaker than that of core property features.
+
+These findings motivate formal hypothesis testing to assess the statistical significance and magnitude of these relationships.
+
+---
+
+### Hypothesis Testing Results
+
+**H1 – Earthquake Risk vs Rental Prices**
+
+Both Pearson correlation analysis and group-based comparisons indicate a statistically significant relationship between earthquake risk and rental prices. The correlation between the earthquake risk index and log(price per m²) is moderate and negative (r ≈ –0.25), with a p-value far below the 0.05 significance level. Similarly, low-risk neighborhoods exhibit substantially higher mean rental prices per m² than high-risk neighborhoods.
+
+These results suggest that earthquake risk is reflected in rental prices in Istanbul, leading to rejection of the null hypothesis for H1.
+
+---
+
+**H2 – Building Age × Earthquake Risk Interaction**
+
+Regression results confirm that building age has a statistically significant negative effect on rental prices per m² across all neighborhoods. However, the magnitude of this effect differs by risk group. Contrary to expectations, the negative impact of age is stronger in low-risk neighborhoods than in high-risk ones.
+
+Because older buildings are not discounted more heavily in high-risk areas, the evidence does not support H2. Therefore, the null hypothesis cannot be rejected.
+
+---
+
+**H3 – Floor Level × Earthquake Risk Interaction**
+
+Floor level has a statistically significant positive effect on rental prices in both low-risk and high-risk neighborhoods. However, this positive effect is substantially weaker in high-risk areas. While higher floors command strong price premiums in low-risk neighborhoods, this premium is noticeably reduced where earthquake risk is elevated.
+
+This asymmetric effect supports the alternative hypothesis, leading to rejection of the null hypothesis for H3.
+
+---
+
+### Machine Learning Results
+
+Across all tested models, non-linear approaches outperform the linear baseline, indicating that rental price formation in Istanbul is not well described by simple linear relationships. Among these models, Random Forest achieves the strongest and most stable performance under cross-validation.
+
+Feature importance analysis shows that structural apartment characteristics remain the dominant drivers of rental prices. Nevertheless, earthquake risk indicators contribute meaningful predictive signal, complementing the statistical findings from the hypothesis testing stage. Moderate R² values across models suggest that important explanatory factors—such as neighborhood amenities, construction quality, and broader market conditions—are not fully captured in the dataset.
