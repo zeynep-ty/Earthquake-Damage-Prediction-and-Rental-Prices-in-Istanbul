@@ -102,3 +102,9 @@ This asymmetric effect supports the alternative hypothesis, leading to rejection
 Across all tested models, non-linear approaches outperform the linear baseline, indicating that rental price formation in Istanbul is not well described by simple linear relationships. Among these models, Random Forest achieves the strongest and most stable performance under cross-validation.
 
 Feature importance analysis shows that structural apartment characteristics remain the dominant drivers of rental prices. Nevertheless, earthquake risk indicators contribute meaningful predictive signal, complementing the statistical findings from the hypothesis testing stage. Moderate R² values across models suggest that important explanatory factors—such as neighborhood amenities, construction quality, and broader market conditions—are not fully captured in the dataset.
+
+## Conclusion
+
+This project examines whether neighborhood-level earthquake loss estimates are reflected in Istanbul’s rental housing market when controlling for property characteristics. The results indicate that while structural apartment features and location dominate rental price formation, earthquake risk is statistically associated with lower rents and influences how certain features—such as floor level—are priced.
+
+Overall, the findings suggest that earthquake risk is partially incorporated into rental prices, though its effect is smaller than that of traditional housing attributes. This highlights a gap between objective seismic risk and market valuation, with important implications for urban planning and safer housing decisions.
