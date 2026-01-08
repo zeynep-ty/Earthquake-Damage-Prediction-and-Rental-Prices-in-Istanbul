@@ -55,31 +55,9 @@ Recently, while searching for a new apartment in Istanbul with my family, the ma
       - **Null Hypothesis(H0):** Floor level has the same impact on rental prices across low-risk and high-risk neighborhoods.
       - **Alternative Hypothesis(H3):** Higher-floor apartments become cheaper in high-risk neighborhoods compared to low-risk ones, showing that people are more worried about living on upper floors when the earthquake risk is higher.
 
-## Methodology
+## Methodology Overview
 
-This project follows a three-stage workflow: (1) data preparation and exploratory analysis, (2) statistical hypothesis testing, and (3) predictive modeling with machine learning. The objective is to assess whether neighborhood-level earthquake risk is reflected in rental prices and how its influence compares with structural apartment characteristics.
-
-### 1) Data Preparation & Feature Engineering
-Rental apartment listings are merged with neighborhood-level earthquake loss estimates published by the Istanbul Metropolitan Municipality using standardized district and neighborhood identifiers. Location names are normalized (case, Turkish characters, and spelling variants) to minimize merge mismatches, and duplicate or clearly invalid observations are removed based on consistent filtering rules.
-
-The primary outcome variable is **price per square meter**, with log-transformations applied where appropriate to reduce skewness and support statistical assumptions. Earthquake-related variables—including building damage counts and casualty estimates—are converted into **ratio-based indicators** to enable fair comparisons across neighborhoods of different sizes. These indicators are further combined into a **unified earthquake risk index** that summarizes multiple risk dimensions in a single comparable measure.
-
-The resulting analysis-ready dataset includes structural apartment features (size, number of rooms, building age, and floor level), engineered earthquake risk indicators, and location identifiers used for grouping and robustness checks.
-
-### 2) Exploratory Data Analysis (EDA)
-Exploratory data analysis is conducted to understand distributions, detect outliers, and identify preliminary relationships prior to formal inference. Rental price variables are inspected for heavy right-skewness, motivating the use of log-transformed outcomes in subsequent analyses.
-
-Bivariate relationships between rental prices and key predictors—apartment size, room count, building age, floor level, and earthquake risk—are visualized and summarized to guide model and test selection. Neighborhoods are classified into **low-risk and high-risk groups using a median split of the unified earthquake risk index**, ensuring balanced and interpretable comparisons. Insights from EDA are used to refine hypotheses and motivate the structure of subsequent statistical tests.
-
-### 3) Hypothesis Testing & Predictive Modeling
-This stage combines statistical inference, which focuses on significance and interpretability, with machine learning, which emphasizes predictive performance and relative feature importance.
-
-For hypothesis testing, statistical significance is evaluated at **α = 0.05**, with test choices guided by distributional properties and heteroskedasticity considerations.  
-- **H1 (Earthquake Risk vs Rent):** The relationship between earthquake risk and log(price per m²) is examined using correlation analysis and mean comparisons between low-risk and high-risk neighborhoods.  
-- **H2 (Building Age × Risk):** Separate regressions are estimated for low-risk and high-risk groups to directly compare the magnitude of age-related price penalties across risk levels.  
-- **H3 (Floor Level × Risk):** A similar group-wise regression approach is used to assess whether the price premium associated with higher floors weakens under higher earthquake risk.
-
-For predictive modeling, a linear regression baseline is compared with non-linear models to evaluate how well rental prices can be predicted and to assess the relative contribution of earthquake risk indicators versus structural apartment characteristics. Model performance is evaluated using **5-fold cross-validation**, with comparisons focusing on both predictive accuracy and stability across folds. Evaluation metrics include **R² and error-based measures**, capturing both explanatory power and prediction quality. Machine learning results are interpreted as complementary evidence, providing insight into complex, non-linear relationships that extend beyond isolated statistical tests.
+The analysis follows a three-stage pipeline. First, exploratory data analysis (EDA) is conducted on the merged rental and earthquake datasets to understand distributions, detect outliers, and identify preliminary relationships. Second, formal hypothesis testing is performed to quantify the statistical significance and magnitude of the relationships between earthquake risk, property characteristics, and rental prices. Finally, multiple machine learning models are trained to evaluate predictive performance and to compare the relative importance of earthquake risk indicators versus structural apartment features.
    
 ## Results and Interpretation
 
