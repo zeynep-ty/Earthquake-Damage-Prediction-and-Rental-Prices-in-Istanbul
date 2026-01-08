@@ -108,3 +108,9 @@ Feature importance analysis shows that structural apartment characteristics rema
 This project examines whether neighborhood-level earthquake loss estimates are reflected in Istanbul’s rental housing market when controlling for property characteristics. The results indicate that while structural apartment features and location dominate rental price formation, earthquake risk is statistically associated with lower rents and influences how certain features—such as floor level—are priced.
 
 Overall, the findings suggest that earthquake risk is partially incorporated into rental prices, though its effect is smaller than that of traditional housing attributes. This highlights a gap between objective seismic risk and market valuation, with important implications for urban planning and safer housing decisions.
+
+## Limitations and Future Work
+
+This study relies on online rental listings, which may not fully represent the entire housing market and may contain listing bias. The analysis is observational, so causal interpretations cannot be made. Additionally, the earthquake risk data and rental listings are not perfectly aligned in time, and neighborhood-level aggregation may mask building-specific risk differences.
+
+Future work could incorporate spatial variables such as proximity to fault lines, public transportation, and amenities, as well as building quality indicators and temporal price dynamics. More advanced spatial or hedonic pricing models could further improve explanatory power and policy relevance.
